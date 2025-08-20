@@ -1,4 +1,3 @@
-# compare_yolo_webcam.py
 import time
 import cv2
 from ultralytics import YOLO
