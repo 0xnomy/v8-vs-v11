@@ -1,0 +1,16 @@
+# Model weights
+*.pt
+*.pth
+*.weights
+
+# COCO dataset
+coco/
+
+
+# Training runs and results
+runs/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
